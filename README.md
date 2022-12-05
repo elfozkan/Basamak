@@ -1,0 +1,1 @@
+Kullanıcıdan istenen sayının basamaklarının çarpımını toplamını ve basakmaklarının çarpımı ile toplamının farkını veren program.
